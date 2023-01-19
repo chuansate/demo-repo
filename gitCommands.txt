@@ -14,5 +14,9 @@ git add .   OR    git add [specific file name]
 6. Check the status again:
 git status
 
-7. Commit changes to the github repo:
+7. Commit changes to the github repo(still happening in local):
 git commit -m [Commit Title] -m [Commit Content]
+
+8. go https://www.youtube.com/watch?v=RGOj5yH7evk&ab_channel=freeCodeCamp.org
+for more info on SSH keys for pushing all the commits to github
+
